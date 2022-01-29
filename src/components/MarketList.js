@@ -66,6 +66,7 @@ const MarketList = () => {
       })
       .catch((err) => {
         console.log(err);
+        //if cant fetch from api, use local results
         setMarkets(data.marketSummaryResponse.result);
       });
     return () => {
