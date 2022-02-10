@@ -2,9 +2,9 @@
 
 #How to run on your machine
 
-<p>download
-extract
-<code>npm install</code> - in a cli of your choice to install dependencies
-<code>npm start</code>
-</p>
-<src="architecture.png" alt="acrhitecture" img/>
+<p>download</p>
+<p>extract</p>
+<p><code>npm install</code> - in a cli of your choice to install dependencies</p>
+<p><code>npm start</code></p>
+
+<img src="/architecture.png" alt="acrhitecture"/>
